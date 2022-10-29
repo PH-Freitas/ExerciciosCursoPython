@@ -241,7 +241,7 @@ print("{} // {} = {}".format(num_1,num_2,divisaointeira))
 
 # Declaração da variável velocidade
 velocidade = float(input("Digite uma velocidade(m/s): "))
-conversao = velocidade / 3.6
+conversao = velocidade * 3.6
 # Imprimir na tela a velocidade convertida
 print(conversao , "(km/h)")
 
