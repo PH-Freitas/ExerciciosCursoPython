@@ -98,12 +98,6 @@ numero_2 = int(input("Numero: "))
 # Imprimir na tela: "Olá Fulano, tudo bem?"
 print(numero_1 + numero_2)
 
-"""###3. Número Real"""
-
-# Declarar variável número
-
-# Imprimir na tela: "Olá Fulano, tudo bem?"
-
 """##Operadores
 
 ###1 - Atribuição (=)
