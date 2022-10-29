@@ -254,7 +254,7 @@ raio = float(input("Digite o raio da circunferência: "))
 # Calcular o comprimento
 comprimento = 2 * math.pi * raio
 # Imprimir na tela
-print("Comprimento = ", comprimento)
+print("Comprimento = ", round(comprimento, 2))
 
 """###3. Fazer um programa em que o usuário entra com um número e o programa imprime na tela seu antecessor e seu sucessor."""
 
